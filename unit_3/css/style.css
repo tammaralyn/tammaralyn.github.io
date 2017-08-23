@@ -4,13 +4,9 @@ body {
 	background-size: cover;
 	background-color: #6757A3;
 	background-image: url("hero_image.jpg");
-}
-p {
 	color: #fff;
 }
+
 hr {
 	width: 400px;
-}
-h1	{
-	color: #fff;
 }
