@@ -3,5 +3,5 @@ body {
 	font-family: Arial, sans-serif;
 	background-size: cover;
 	background-color: #6757A3;
-	background: url("hero_image.jpg");
+	background-image: url("hero_image.jpg");
 }
