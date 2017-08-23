@@ -3,7 +3,6 @@ body {
 	background-image: url("cover_image.jpeg");
 	background-size: cover;
 	font-family:"Courier New";
-	background-size: cover;
 	background-color: #6757A3;
 	color: #fff;
 }
@@ -24,7 +23,4 @@ ul {
 	color: #fff;
 	list-style-type: none;
 	font-weight: bolder;
-}
-address {
-	color: #000;
 }
