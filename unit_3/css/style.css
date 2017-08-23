@@ -19,16 +19,6 @@ h1	{
 	font-weight: bold;
 	font-size: 30px;
 }
-#one {
-	background-color: #000000;
-	font-style: bold;
-
-}
-#two {
-	background-color: #ffffff;
-	font-style: bold;
-}
-#three {
-	background-color: #000000;
-	font-style: bold;
+ul {
+	color: #000;
 }
