@@ -8,9 +8,13 @@ body {
 }
 
 hr {
-	width: 400px;
+	width: 800px;
 	font-size: 24px;
 }
 #slogan {
 	font-size: 18px;
+	font-style: italic;
+}
+h1	{
+	font-weight: bold;
 }
