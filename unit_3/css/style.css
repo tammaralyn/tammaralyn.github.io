@@ -1,7 +1,9 @@
 body {
+	background: url("http://imgur.com/tKGzaCB");
+	background-size: cover;
 	text-align: center;
 	font-family:"Courier New";
-	//background-size: cover;//
+	background-size: cover;
 	background-color: #6757A3;
 	color: #fff;
 }
