@@ -1,10 +1,9 @@
 body {
 	text-align: center;
 	font-family:"Courier New";
-	background-size: cover;
+	//background-size: cover;//
 	background-color: #6757A3;
 	color: #fff;
-	background-image: url("cover_image.jpg");
 }
 
 hr {
