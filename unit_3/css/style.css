@@ -21,4 +21,5 @@ h1	{
 }
 ul {
 	color: #000;
+	list-style-type: none;
 }
