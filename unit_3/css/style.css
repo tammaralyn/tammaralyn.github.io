@@ -3,7 +3,7 @@ body {
 	font-family:"Courier New";
 	background-size: cover;
 	background-color: #6757A3;
-	background-image: url("hero_image.jpg");
+	background-image: url("cover_image.jpg");
 	color: #fff;
 }
 
@@ -17,7 +17,7 @@ hr {
 }
 h1	{
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 80px;
 }
 ul {
 	color: #000;
