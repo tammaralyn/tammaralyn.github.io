@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 body {
 	text-align: center;
 	background: url("cover_image.jpg");
@@ -16,7 +17,6 @@ hr {
 	font-style: italic;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 h1	{
 	font-weight: bold;
 	font-size: 80px;
