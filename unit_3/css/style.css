@@ -27,9 +27,10 @@ h2{
 	font-family: Arial;
 }
 
-p {
+#AboutMe {
 	width: 36em;
 	color: #fff;
+	padding-left: 50%;
 }
 ul {
 	color: #fff;
