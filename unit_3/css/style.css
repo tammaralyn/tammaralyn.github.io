@@ -30,7 +30,8 @@ h2{
 #AboutMe {
 	width: 36em;
 	color: #fff;
-	padding-left: 30%;
+	display: inline-block; 
+	vertical-align: middle;
 }
 ul {
 	color: #fff;
