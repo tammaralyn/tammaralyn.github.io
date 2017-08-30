@@ -29,12 +29,12 @@ h2{
 
 #AboutMe {
 	width: 36em;
-	color: #fff;
+	color: #F0E789;
 	display: inline-block; 
 	vertical-align: middle;
 }
 ul {
-	color: #F0E789;
+	color: #fff;
 	list-style-type: none;
 	font-weight: bolder;
 }
