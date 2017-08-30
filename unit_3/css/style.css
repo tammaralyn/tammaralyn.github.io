@@ -29,8 +29,9 @@ h2{
 
 #AboutMe {
 	width: 36em;
-	color: #1C0254;
-	background-color: #6757A3;
+	text-align: center;
+	color: #fff;
+	text-align: center;
 }
 ul {
 	color: #fff;
