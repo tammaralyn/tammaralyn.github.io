@@ -27,10 +27,9 @@ h2{
 	font-family: Arial;
 }
 
-#AboutMe {
+p {
 	width: 36em;
 	color: #fff;
-	max-width: 300px;
 }
 ul {
 	color: #fff;
