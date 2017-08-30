@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {
+	text-align: center;
+	background: url("cover_image.jpg");
+	background-size: cover;
+	font-family:"Courier New";
+	background-color: #6757A3;
+	color: #fff;
+}
+
+hr {
+	width: 800px;
+}
+
+#slogan {
+	font-size: 24px;
+	font-style: italic;
+}
+
+h1	{
+	font-weight: bold;
+	font-size: 80px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+h2{
+	font-family: Arial;
+}
+
+#AboutMe {
+	width: 36em;
+	color: #F0E789;
+	display: inline-block; 
+	vertical-align: middle;
+}
+ul {
+	color: #fff;
+	list-style-type: none;
+	font-weight: bolder;
+}
