@@ -26,6 +26,10 @@ h1	{
 h2{
 	font-family: Arial;
 }
+
+#AboutMe {
+	color: #59247f;
+}
 ul {
 	color: #fff;
 	list-style-type: none;
