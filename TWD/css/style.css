@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 
 body{
-	background-color: #F0E789;	
+	background-color: #000;	
+	color: #fff;
+	font-family: Arial, serif;
 }
 
 #Intro{
