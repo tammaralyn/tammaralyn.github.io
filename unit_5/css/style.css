@@ -12,18 +12,14 @@ hr {
 	width: 800px;
 }
 
-img{
-	display: block;
-	margin: 0 auto;
-}
 #slogan {
-	font-size: 14px;
+	font-size: 24px;
 	font-style: italic;
 }
 
 h1	{
 	font-weight: bold;
-	font-size: 70px;
+	font-size: 80px;
 	font-family: 'Shadows Into Light', cursive;
 }
 
@@ -33,7 +29,7 @@ h2{
 
 #AboutMe {
 	width: 36em;
-	color: #fff;
+	color: #F0E789;
 	display: inline-block; 
 	vertical-align: middle;
 }
