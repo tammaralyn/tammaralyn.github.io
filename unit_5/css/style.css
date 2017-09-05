@@ -12,8 +12,12 @@ hr {
 	width: 800px;
 }
 
+img{
+	display: block;
+	magin: 0 auto;
+}
 #slogan {
-	font-size: 18px;
+	font-size: 14px;
 	font-style: italic;
 }
 
