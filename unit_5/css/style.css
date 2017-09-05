@@ -45,6 +45,8 @@ li {
 
 	display: inline;
 	width: 60px;
+	border-style: solid;
+	border-color: #fff;
 }
 div{
 
