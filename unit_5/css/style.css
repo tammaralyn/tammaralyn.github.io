@@ -40,8 +40,8 @@ ul {
 	margin: 0;
 	padding: 0;
 }
-li{
+li {
 
-	display: block;
+	display: inline;
 	width: 60px;
 }
