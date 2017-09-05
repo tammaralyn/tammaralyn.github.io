@@ -46,7 +46,8 @@ li {
 	display: inline;
 	width: 60px;
 	border-style: solid;
-	border-color: #fff;
+	border-color: #000;
+	color: #fff;
 }
 div{
 
