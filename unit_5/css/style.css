@@ -13,8 +13,9 @@ hr {
 }
 
 #slogan {
-	font-size: 14px;
+	font-size: 12px;
 	font-style: italic;
+	padding: 0;
 }
 
 h1	{
