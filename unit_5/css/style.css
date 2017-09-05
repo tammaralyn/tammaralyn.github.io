@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 body {
 	text-align: center;
-	background: url("cover_image.jpg");
+	<!--background: url("cover_image.jpg");-->
 	background-size: cover;
 	font-family:"Courier New";
 	background-color: #6757A3;
