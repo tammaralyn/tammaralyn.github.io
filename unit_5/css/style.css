@@ -21,6 +21,9 @@ hr{
 	font-size: 22px;
 	font-style: italic;
 	padding: 0;
+	color: #fff;
+	font-family: Arial;
+	background-color: #FFED74;
 }
 
 h1	{
@@ -30,11 +33,10 @@ h1	{
 	background-color: #FFED74;
 }
 
-h2{
-	font-family: Arial;
-	background-color: #FFED74;
+<!--h2{
+	
 	color: #fff;
-}
+}-->
 
 #AboutMe {
 	width: 36em;
