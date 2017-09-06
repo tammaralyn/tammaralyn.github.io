@@ -14,7 +14,7 @@ img{
 }
 
 hr{
-	width: 300px;
+	width: 600px;
 }
 
 #slogan {
@@ -69,5 +69,6 @@ aside{
 	display: inline;
 	margin-left: 1200px;
 	text-align: left;
-	padding-top: 20px;
+	padding-top: 20px 1200px;
+	border-style: double;
 }
