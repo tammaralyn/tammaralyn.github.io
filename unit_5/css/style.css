@@ -62,4 +62,5 @@ div{
 aside{
 	display: inline;
 	margin-left: 300px;
+	text-align: left;
 }
