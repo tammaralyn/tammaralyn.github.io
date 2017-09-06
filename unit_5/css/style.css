@@ -5,7 +5,7 @@ body {
 	background-size: cover;
 	font-family:"Courier New";
 	background-color: #000;
-	color: #fff;
+	color: #000;
 }
 
 
@@ -36,7 +36,7 @@ h2{
 
 #AboutMe {
 	width: 36em;
-	color: #fff;
+	color: #000;
 	display: inline-block; 
 	vertical-align: middle;
 }
