@@ -33,6 +33,7 @@ h1	{
 h2{
 	font-family: Arial;
 	background-color: #FFED74;
+	color: #fff;
 }
 
 #AboutMe {
@@ -80,4 +81,5 @@ aside {
 
 footer {
 	background-color: #FF957E;
+	color: #fff;
 }
