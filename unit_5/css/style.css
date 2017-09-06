@@ -39,13 +39,13 @@ ul {
 	color: #fff;
 	list-style-type: none;
 	font-weight: bolder;
-	margin: 0;
-	padding: 0;
+	margin: 10px;
+	padding: 10px;
 }
 li {
 
 	display: inline;
-	border: 15px;
+	<!--border: 15px;-->
 	
 }
 div{
