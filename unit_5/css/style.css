@@ -49,6 +49,9 @@ li {
 	margin: 15px;
 	padding: 20px;
 	<!--border-style: double;-->
+	font-weight: bolder;
+	color: #9C435B;
+	font-size: 18px;
 }
 div{
 
