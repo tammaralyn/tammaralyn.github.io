@@ -11,6 +11,9 @@ body {
 hr {
 	width: 700px;
 }
+img{
+	display: inline-block;
+}
 
 #slogan {
 	font-size: 22px;
