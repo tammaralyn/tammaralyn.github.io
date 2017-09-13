@@ -16,4 +16,6 @@ h1{
 
 #wrapper {
 	background-color: #9F6365;
+	width: 960px;
+	margin: auto;
 }
