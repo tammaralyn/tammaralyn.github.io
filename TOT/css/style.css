@@ -23,6 +23,29 @@ img{
 	font-family: 'Chewy', cursive;
 	font-weight: lighter;
 }
+
 #about {
 	font-style: italic;
+}
+
+#life {
+	background: #46221E;
+	border: 2px gray solid;
+	padding: 10px;
+	float: left;
+	width: 30px;
+}
+#travel {
+	background: #46221E;
+	border: 2px gray solid;
+	padding: 10px;
+	float: left;
+	width: 30px;
+}
+#randon {
+	background: #46221E;
+	border: 2px gray solid;
+	padding: 10px;
+	float: left;
+	width: 30px;
 }
