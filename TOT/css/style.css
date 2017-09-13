@@ -48,11 +48,10 @@ img{
 	margin: 5px;
 }
 .clearfix:after {
-	visibility: hidden;
-	display: inline-block;
-	font-size: "0";
-	content: " ";
-	clear: both;
-	height: 0;
-
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
