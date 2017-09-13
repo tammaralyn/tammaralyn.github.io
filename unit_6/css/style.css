@@ -87,7 +87,7 @@ footer {
 }
 
 #two_column {
-	background-color: rgba(103, 87, 163, 0);
+	background-color: rgba(103, 87, 163, 0.2);
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -95,14 +95,14 @@ footer {
 #About {
 	background-color: violet;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: left;
     width: 48%;
 }
  #Why {
  	background-color: pink;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: right;   
     width: 48%;
  }
