@@ -30,7 +30,7 @@ h1	{
 	font-weight: bold;
 	font-size: 80px;
 	font-family: 'Shadows Into Light', cursive;
-	background-color: #FFED74;
+	background-color: rgba(255, 237, 116, 0.2);
 }
 
 <!--h2{
@@ -61,7 +61,7 @@ li {
 	<!--border-style: double;-->
 	font-weight: bolder;
 	color: #9C435B;
-	background-color: #E8C66A;
+	background-color: rgba(232, 198, 106, 0.2);
 	font-size: 18px;
 }
 div{
