@@ -4,7 +4,6 @@ body{
 	background-color: #000;	
 	color: #fff;
 	font-family: Arial, serif;
-	margin: auto;
 }
 
 h1{
@@ -16,7 +15,6 @@ img{
 }
 #wrapper {
 	background-color: #9F6365;
-	margin: auto;
 }
 .segment {
 	font-family: 'Chewy', cursive;
@@ -42,7 +40,7 @@ img{
 	width: 30px;
 	margin: 5px;
 }
-#randon {
+#random {
 	background: #46221E;
 	border: 2px gray solid;
 	padding: 10px;
@@ -56,5 +54,5 @@ img{
 	content: " ";
 	clear: both;
 	height: 0;
-	
+
 }
