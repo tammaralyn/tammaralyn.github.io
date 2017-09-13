@@ -33,6 +33,7 @@ img{
 	padding: 10px;
 	float: left;
 	width: 30px;
+	margin: 5px;
 }
 #travel {
 	background: #46221E;
@@ -40,6 +41,7 @@ img{
 	padding: 10px;
 	float: left;
 	width: 30px;
+	margin: 5px;
 }
 #randon {
 	background: #46221E;
@@ -47,4 +49,5 @@ img{
 	padding: 10px;
 	float: left;
 	width: 30px;
+	margin: 5px;
 }
