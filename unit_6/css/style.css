@@ -85,3 +85,20 @@ footer {
 	background-color: #FF957E;
 	color: #fff;
 }
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#AboutMe #Why {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+ #Tutorial #Reviews {
+ 	background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+ }
