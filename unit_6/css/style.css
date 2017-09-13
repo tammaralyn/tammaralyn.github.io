@@ -87,7 +87,7 @@ footer {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: rgba(103, 87, 163, 0);
 	border: 1px black solid;
 	padding: 20px;
 }
