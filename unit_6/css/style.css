@@ -93,12 +93,16 @@ footer {
 }
 
 #About {
-	background-color: #E582A2;
+	background-color: violet;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 48%;
 }
  #Why {
- 	background-color: #E55B88;
+ 	background-color: pink;
     border: 1px black solid;
     padding: 20px;
+    float: right;   
+    width: 48%;
  }
