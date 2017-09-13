@@ -13,3 +13,7 @@ body{
 h1{
 	font-family: 'Chewy', cursive;
 }
+
+#wrapper {
+	background-color: #9F6365;
+}
