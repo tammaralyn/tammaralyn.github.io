@@ -97,14 +97,14 @@ footer {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 45%;
+    width: 48%;
 }
  #Why {
  	background-color: pink;
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 45%;
+    width: 48%;
  }
 
  .clearfix:after {
