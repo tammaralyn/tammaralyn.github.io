@@ -33,6 +33,7 @@ img{
 	padding: 100px;
 	width: 60px;
 	margin: 10px;
+	align-self: center;
 }
 #travel {
 	background: #46221E;
@@ -40,6 +41,7 @@ img{
 	padding: 100px;
 	width: 60px;
 	margin: 10px;
+	align-self: center;
 }
 #random {
 	background: #46221E;
@@ -47,10 +49,11 @@ img{
 	padding: 100px;
 	width: 60px;
 	margin: 10px;
+	align-self: center;
 }
 .clearfix:after {
     visibility: hidden;
-    display: block;
+    display: inline;
     font-size: 0;
     content: " ";
     clear: both;
