@@ -32,24 +32,21 @@ img{
 	border: 2px gray solid;
 	padding: 100px;
 	width: 60px;
-	margin: 10px;
-	align-self: center;
+	margin: 0px;
 }
 #travel {
 	background: #46221E;
 	border: 2px gray solid;
 	padding: 100px;
 	width: 60px;
-	margin: 10px;
-	align-self: center;
+	margin: 0px;
 }
 #random {
 	background: #46221E;
 	border: 2px gray solid;
 	padding: 100px;
 	width: 60px;
-	margin: 10px;
-	align-self: center;
+	margin: 0px;
 }
 .clearfix:after {
     visibility: hidden;
