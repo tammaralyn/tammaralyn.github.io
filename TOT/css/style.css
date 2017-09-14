@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Chewy);
 
 body{
-	background-color: #000;	
+	background-color: #9F6365;	
 	color: #fff;
 	font-family: Arial, serif;
 }
@@ -14,7 +14,7 @@ img{
 	margin: auto;
 }
 #wrapper {
-	background-color: #9F6365;
+	border-style: double;
 }
 .segment {
 	font-family: 'Chewy', cursive;
