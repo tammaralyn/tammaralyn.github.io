@@ -17,37 +17,13 @@ img{
 #wrapper {
 	border-style: double;
 }
-.segment {
-	font-family: 'Chewy', cursive;
-	font-weight: lighter;
-	float: left;
-}
+
 
 #about {
 	font-style: italic;
 }
 
-#life {
-	background: #46221E;
-	border: 2px gray solid;
-	padding: 100px;
-	width: 60px;
-	margin: 0px;
-}
-#travel {
-	background: #46221E;
-	border: 2px gray solid;
-	padding: 100px;
-	width: 60px;
-	margin: 0px;
-}
-#random {
-	background: #46221E;
-	border: 2px gray solid;
-	padding: 100px;
-	width: 60px;
-	margin: 0px;
-}
+
 .clearfix:after {
     visibility: hidden;
     display: inline;
@@ -55,4 +31,10 @@ img{
     content: " ";
     clear: both;
     height: 0;
+}
+
+nav {
+	display: inline;
+	padding: 10px;
+	border-style: double;
 }
