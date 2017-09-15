@@ -34,8 +34,9 @@ img{
 }
 
 nav {
-	display: inline-block;
+	display: inline;
 	padding: 10px;
 	margin: 10px;
 	border-style: double;
+	list-style-type: none;
 }
