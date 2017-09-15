@@ -122,3 +122,7 @@ footer {
     clear: both;
     height: 0;
  }
+ a{
+ 	color: #9C435B;
+ 	padding-bottom: none;
+ }
