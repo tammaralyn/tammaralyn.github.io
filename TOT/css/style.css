@@ -37,6 +37,7 @@ nav {
 	display: inline;
 	padding: 10px;
 	margin: 10px;
-	border-style: double;
+	border: 20px;
+	border-style: solid;
 	list-style-type: none;
 }
