@@ -73,13 +73,7 @@ div{
 	background-color: #FFE2B8;
 
 }
-aside {
-	display: inline;
-	margin-left: 1200px;
-	text-align: left;
-	padding-top: 20px 1200px;
-	color: #fff;
-}
+
 
 footer {
 	background-color: #FF957E;
@@ -106,7 +100,20 @@ footer {
     float: right;   
     width: 48%;
  }
-
+ #Tutorial {
+ 	background-color: rgba(82, 82, 82, 0.5);
+    border: 1px black solid;
+    padding: 10px;
+    float: left;   
+    width: 48%;
+ }
+#Reviews {
+	background-color: rgba(82, 82, 82, 0.5);
+    border: 1px black solid;
+    padding: 10px;
+    float: right;   
+    width: 48%;
+}
  .clearfix:after {
  	visibility: hidden;
     display: block;
