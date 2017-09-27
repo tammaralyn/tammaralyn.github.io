@@ -7,6 +7,7 @@ body {
 	font-family:"Courier New";
 	background-color: #000;
 	color: #fff;
+	font-size: 22px;
 }
 
 
@@ -20,7 +21,7 @@ hr{
 }
 
 #slogan {
-	font-size: 22px;
+	font-size: 1px;
 	font-style: italic;
 	color: #fff;
 	font-family: Arial;
@@ -29,7 +30,7 @@ hr{
 
 h1	{
 	font-weight: bold;
-	font-size: 80px;
+	font-size: 3.6em;
 	font-family: 'Shadows Into Light', cursive;
 	background-color: rgba(255, 237, 116, 0.2);
 }
@@ -49,20 +50,20 @@ ul {
 	color: #fff;
 	list-style-type: none;
 	font-weight: bolder;
-	font-size: 20px;
+	font-size: 1em;
 }
 li {
 
 	display: inline;
-	margin: 15px;
-	padding: 20px;
+	margin: 5%;
+	padding: 15%;
 	font-weight: bolder;
 	color: #9C435B;
 	background-color: rgba(232, 198, 106, 0.2);
-	font-size: 18px;
+	font-size: 0.8em;
 	border-bottom: none;
 }
-div{max-width: 960px;/* background-color: #FFE2B8; */}
+div{max-width: 100%;/* background-color: #FFE2B8; */}
 
 
 footer {
