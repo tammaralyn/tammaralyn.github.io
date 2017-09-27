@@ -98,3 +98,17 @@ footer {
  a{
  	color: #9C435B;
  }
+
+ @media screen only and (min-width: 360px;) and (max-width: 768px;) {
+
+ 	ul {
+ 		float: none;
+ 		margin: 0;
+ 		padding: 0;
+ 	}
+ #about #why #tutorial #reviews {
+ 	padding: 0;
+ 	margin: 0;
+ 	width: 50%;
+ 	font-size: 0.5em;
+ }
