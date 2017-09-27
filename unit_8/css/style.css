@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	text-align: center;
+	background: url("cover_image.jpg");
+	background-size: cover;
+	font-family:"Courier New";
+	background-color: #000;
+	color: #fff;
+}
+
+
+img{
+	display: inline-block;
+}
+
+hr{
+	width: 100%;
+	margin: .5em 0 1em;
+}
+
+#slogan {
+	font-size: 22px;
+	font-style: italic;
+	color: #fff;
+	font-family: Arial;
+	background-color: rgba(255, 237, 116, 0.2);
+}
+
+h1	{
+	font-weight: bold;
+	font-size: 80px;
+	font-family: 'Shadows Into Light', cursive;
+	background-color: rgba(255, 237, 116, 0.2);
+}
+
+h2{
+	
+	color: #fff;
+}
+
+#AboutMe {
+	width: 36em;
+	color: #000;
+	display: inline-block; 
+	vertical-align: middle;
+}
+ul {
+	color: #fff;
+	list-style-type: none;
+	font-weight: bolder;
+	font-size: 20px;
+}
+li {
+
+	display: inline;
+	margin: 15px;
+	padding: 20px;
+	font-weight: bolder;
+	color: #9C435B;
+	background-color: rgba(232, 198, 106, 0.2);
+	font-size: 18px;
+	border-bottom: none;
+}
+div{max-width: 960px;/* background-color: #FFE2B8; */}
+
+
+footer {
+	background-color: #FF957E;
+	color: #fff;
+}
+
+#two_column {
+	background-color: rgba(82, 82, 82, 0.5);
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column > div {
+	background-color: rgba(82, 82, 82, 0.75);
+	border: 1px black solid;
+	padding:2em;
+	margin: 1%;
+	float: left;
+	width: 48%;
+	min-height: 20em;
+	text-align:left;
+}
+ .clearfix:after {
+ 	visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+ }
+ a{
+ 	color: #9C435B;
+ }
